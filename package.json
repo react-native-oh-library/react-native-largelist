@@ -2,7 +2,7 @@
 	"name": "@react-native-oh-tpl/react-native-largelist",
 	"version": "3.1.0-rc.2-0.0.1",
 	"private": false,
-	"main": "src/index.d.ts",
+	"main": "src/index.js",
 	"description": "The best performance large list component which is much better than SectionList for React Native.",
 	"author": "bolan9999 <bolan999999@gmail.com>",
 	"license": "MIT",
